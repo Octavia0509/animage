@@ -1,0 +1,27 @@
+{
+  "name": "animage",
+  "version": "0.0.1",
+  "description": "A package that allows you to obtain images of animals",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Octavia0509/animage.git"
+  },
+  "keywords": [
+    "animals",
+    "animage",
+    "animals-image"
+  ],
+  "author": "Lucas D. <lcsdesprez@gmail.com> (https://discord.gg/WmxCKvRnKh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Octavia0509/animage/issues"
+  },
+  "homepage": "https://github.com/Octavia0509/animage#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
