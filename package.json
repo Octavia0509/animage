@@ -1,6 +1,6 @@
 {
   "name": "animage",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "A package that allows you to obtain images of animals",
   "main": "main.js",
   "scripts": {
